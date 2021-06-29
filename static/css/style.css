@@ -1,0 +1,64 @@
+.container
+{
+    width:75%;
+    margin:auto;
+    height:auto;
+}
+.container div 
+{
+    margin: auto;
+    padding:.2rem;
+}
+.container-1 , #con-2
+{
+    display: flex;
+    width:75%;
+    border:1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.gen
+{
+    background-color:green;
+    color: white;
+    border: 1px solid greenyellow;
+    margin: auto;
+}
+#con-2 img
+{
+    box-shadow: 0px 2px 5px firebrick;
+    margin: 8px;
+}
+
+/*#b1
+{
+    background-color: blue;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+}
+#b2
+{
+    background-color: red;
+    color:white;
+    justify-content: space-between;
+}*/
+#rps img
+{
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+}
+#rps img:hover
+{
+    box-shadow: 0px 5px 5px blueviolet;
+}
+#wee , #yahoo , #google , #fb
+{
+    border-radius: 3px ;
+    border-color: transparent;
+    color: white;
+    width:auto;
+}
+
