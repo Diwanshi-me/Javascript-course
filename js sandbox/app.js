@@ -26,5 +26,5 @@ function run(e)
   console.log(`${e.type}`)
   console.log(e.target.value);
   heading.innerText=e.target.value;
-  //e.preventDefault();
+  e.preventDefault();
 }
