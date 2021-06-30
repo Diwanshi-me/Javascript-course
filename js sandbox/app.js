@@ -3,7 +3,7 @@ const i=document.getElementById('task');
 const heading=document.querySelector('h5');
 const s=document.querySelector('select');
 //clear input
-
+//cleared input again
 //form.addEventListener('submit',run);
 //events to run on input
 // i.addEventListener('keydown',run);
